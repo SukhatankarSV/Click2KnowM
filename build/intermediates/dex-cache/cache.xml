@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JayDeep\.android\build-cache\e372912de6133b8ef9d9bf28b36a18ba32185735\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\FinalC2KApp\app\build\intermediates\pre-dexed\debug\classes_69e78d8306f0812e8617eab1aea6f3b1c1911cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JayDeep\.android\build-cache\67b91d7816041663b9eaa67afc2ef4c85fd569bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\FinalC2KApp\app\build\intermediates\pre-dexed\debug\classes_389e0f2c8e5fd5a596de809cf338d5d46c3ad3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\FinalC2KApp\app\build\intermediates\pre-dexed\debug\classes_eb9a2c7574d322e8a9dbdaf44c85bd5a76403aa7.jar" />
+    </item>
+
+</items>
