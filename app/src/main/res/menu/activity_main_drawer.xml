@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_c2k"
+            android:icon="@drawable/aboutck"
+            android:title="About C2k" />
+        <item
+            android:id="@+id/nav_how_to_use"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="How to use" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/bag"
+            android:title="About us" />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/contact_us"
+            android:title="Contact us" />
+    </group>
+
+
+</menu>

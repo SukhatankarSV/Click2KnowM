@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.jaydeep.finalc2kapp.HowToUse">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fish"
+    android:scaleType="center"
+    android:alpha="0.8"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="\n\n\n\n
+1. Point the camera to any item just like a cup of coffee or a tree.
+2. Press the button which opens up the smartphone camera
+3. Click the photo
+\n\n---after clicking and object recognition ----------\n
+you clicked -----RESULTS ------------"
+    android:textColor="#000000"
+    android:fontFamily="sans-serif"/>
+</RelativeLayout>

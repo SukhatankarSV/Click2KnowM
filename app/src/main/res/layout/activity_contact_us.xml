@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.jaydeep.finalc2kapp.ContactUs"
+    android:background="@drawable/phoenix3"
+
+    >
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="20dp"
+    android:text="Phoenix developers\n\n\n\nAddress - Room. 31,\nBlock D7,\nWalchand College Of Engg.,Sangli - 416416\n\n\nContact us - phoenixdevelopers@gmail.com\n\nContact Phone: 7387869760"
+    android:textColor="#000000"
+    android:fontFamily="sans-serif"
+    />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+tools:context="com.example.jaydeep.finalc2kapp.C2KAcitvity">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ckapp"
+    android:scaleType="centerCrop"
+    android:alpha="0.7"/>
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:inputType="textMultiLine"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:lineSpacingExtra="20sp"
+    android:text="  Click2Know(C2K) is the handy and user friendly android application which recognizes objects for you.Point the camera to object around you like a painting, landscape, a water bottle or a coffee cup and virtual speaker Alex identify the object you recently clicked along with probabilistic analysis!"
+    tools:layout_editor_absoluteX="172dp"
+    tools:layout_editor_absoluteY="82dp"
+    android:textColor="#000"
+
+    android:fontFamily="sans-serif"
+    android:textStyle="bold"
+
+    android:layout_marginTop="26dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
+</RelativeLayout>

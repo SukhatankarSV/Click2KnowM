@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+tools:context="com.example.jaydeep.finalc2kapp.AboutUs">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/aboutus123"
+        android:scaleType="centerCrop"/>
+
+<TextView
+    android:id="@+id/tv_aboutus"
+    android:layout_width="368dp"
+    android:layout_height="495dp"
+    android:text="Phoenix developers\n\n\n\nOur well-versed team of experienced mobile app developers builds innovative and well-designed mobile applications, which empower your business. Our solutions are always unique and developed right for your business objectives. We start with design, continue with adding new features, and finish the project by testing all the functionality of a business-related mobile app, then pushing it live, and providing support.\n\n\nDo you have a software development project to implement? We have people to work on it.
+"
+    android:textColor="#000000"
+    android:fontFamily="sans-serif"
+    android:textStyle="bold"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentEnd="true"
+    android:layout_marginTop="54dp" />
+
+
+
+</RelativeLayout>
+
