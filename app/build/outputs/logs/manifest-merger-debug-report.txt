@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.CAPTURE_VIDEO_OUTPUT
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:11:5-33:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\a78bcd2a39ff1d9b05eb00b824d4e29a954289f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\c9bcd85bb63f54d4c2ad5abc592252289e6d5079\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\7dd27262802f2c496410b16ac8773b3901f3c5bb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\e372912de6133b8ef9d9bf28b36a18ba32185735\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JayDeep\.android\build-cache\3d7ffc08ea7dd6cf30837402ade29d215ac89681\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\JayDeep\.android\build-cache\135b1bea0258e9f980678bad4810dfbd961c94e7\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\JayDeep\.android\build-cache\3eb8ad425cdf3b4037855709cd05b1b4f27aa98f\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\JayDeep\.android\build-cache\b34d58a650956a2cf8fc4bcd76745b089eb719a7\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\JayDeep\.android\build-cache\c55e319c61aeb9848dfb3ec1c9f2570c83cf02c8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\JayDeep\.android\build-cache\8796c7aafedf9d7f643243f3a1fd07fd557845c7\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\ed5e541c550bdc47243ba5f4ebbb38d2647423ae\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\3f08d29ddfe7f3fe6a089b0f1d26b1e99c8c1c83\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\cdb734c2a29df834831831148b0cf09bd3e334a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\014a344dcf6b0cf9413d8bd1d6638ecc04d156e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\de4af2fb8e0597af6acc5eee2153332d2eaee2a3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\e43806c848d1708d092b6ba98ef4a8f25a04c295\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.jaydeep.finalc2kapp.MainActivity
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.jaydeep.finalc2kapp.C2KAcitvity
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:28:9-49
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:28:19-46
+activity#com.example.jaydeep.finalc2kapp.AboutUs
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:29:9-45
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:29:19-42
+activity#com.example.jaydeep.finalc2kapp.HowToUse
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:30:9-46
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:30:19-43
+activity#com.example.jaydeep.finalc2kapp.ContactUs
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:31:9-47
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:31:19-44
+activity#com.example.jaydeep.finalc2kapp.CameraActivity
+ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml:32:19-49
+uses-sdk
+INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\a78bcd2a39ff1d9b05eb00b824d4e29a954289f6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\c9bcd85bb63f54d4c2ad5abc592252289e6d5079\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\7dd27262802f2c496410b16ac8773b3901f3c5bb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\67b91d7816041663b9eaa67afc2ef4c85fd569bd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\e372912de6133b8ef9d9bf28b36a18ba32185735\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JayDeep\.android\build-cache\3d7ffc08ea7dd6cf30837402ade29d215ac89681\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\JayDeep\.android\build-cache\135b1bea0258e9f980678bad4810dfbd961c94e7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\JayDeep\.android\build-cache\3eb8ad425cdf3b4037855709cd05b1b4f27aa98f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\JayDeep\.android\build-cache\5de154b6c3cda73dc70de9863f75b28610c017f5\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\JayDeep\.android\build-cache\68e6df2e2aaa56b9721630779a7c5031de975d84\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\JayDeep\.android\build-cache\b34d58a650956a2cf8fc4bcd76745b089eb719a7\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\JayDeep\.android\build-cache\c55e319c61aeb9848dfb3ec1c9f2570c83cf02c8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\JayDeep\.android\build-cache\8796c7aafedf9d7f643243f3a1fd07fd557845c7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\ed5e541c550bdc47243ba5f4ebbb38d2647423ae\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\3f08d29ddfe7f3fe6a089b0f1d26b1e99c8c1c83\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\cdb734c2a29df834831831148b0cf09bd3e334a7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\014a344dcf6b0cf9413d8bd1d6638ecc04d156e5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\de4af2fb8e0597af6acc5eee2153332d2eaee2a3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\e43806c848d1708d092b6ba98ef4a8f25a04c295\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FinalC2KApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\a78bcd2a39ff1d9b05eb00b824d4e29a954289f6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\c9bcd85bb63f54d4c2ad5abc592252289e6d5079\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\7dd27262802f2c496410b16ac8773b3901f3c5bb\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\67b91d7816041663b9eaa67afc2ef4c85fd569bd\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\e372912de6133b8ef9d9bf28b36a18ba32185735\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\ed5e541c550bdc47243ba5f4ebbb38d2647423ae\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\3f08d29ddfe7f3fe6a089b0f1d26b1e99c8c1c83\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\cdb734c2a29df834831831148b0cf09bd3e334a7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\014a344dcf6b0cf9413d8bd1d6638ecc04d156e5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\de4af2fb8e0597af6acc5eee2153332d2eaee2a3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\e43806c848d1708d092b6ba98ef4a8f25a04c295\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\JayDeep\.android\build-cache\0be7f94ebbe5e46223611371c04f3139d4962931\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\JayDeep\.android\build-cache\3eb8ad425cdf3b4037855709cd05b1b4f27aa98f\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\JayDeep\.android\build-cache\3eb8ad425cdf3b4037855709cd05b1b4f27aa98f\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\JayDeep\.android\build-cache\3eb8ad425cdf3b4037855709cd05b1b4f27aa98f\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\JayDeep\.android\build-cache\3eb8ad425cdf3b4037855709cd05b1b4f27aa98f\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\JayDeep\.android\build-cache\e18f76a4d6b61f2bc64af6055f01288db549a7d7\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\JayDeep\.android\build-cache\5efa887f25d5ee26e806b30366dbfa277f6ffdcc\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\JayDeep\.android\build-cache\7cb4d63555f20508b322af6784cbac5c1fb1582e\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\JayDeep\.android\build-cache\f0a5d472dfbc4c75e606b4fbb4b684ab5a5f89dd\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\JayDeep\.android\build-cache\8796c7aafedf9d7f643243f3a1fd07fd557845c7\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\JayDeep\.android\build-cache\8796c7aafedf9d7f643243f3a1fd07fd557845c7\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\JayDeep\.android\build-cache\8796c7aafedf9d7f643243f3a1fd07fd557845c7\output\AndroidManifest.xml:20:20-65
